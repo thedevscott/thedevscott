@@ -1,8 +1,7 @@
 # Hi, I'm Omar Scott
 
 - For over a decade, I’ve developed flight-safety and adjacent software using C++/Python
-- I’m currently learning [Go](https://go.dev/)
-    - Which made me curious about [Elixir](https://elixir-lang.org/)
+- I’m currently building with Go
 - You can reach me on LinkedIn [@omar-scott](https://www.linkedin.com/in/omar-scott/)
 
 <!--
